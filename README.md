@@ -20,3 +20,5 @@ Análisis de los elementos del UX
 ## Dashboard
 
 ![Página principal](dashboard/Mockup.png)
+![Página principal](dashboard/Chile.png)
+![Página principal](dashboard/Alumnas.png)
